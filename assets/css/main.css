@@ -37,7 +37,7 @@ main {
   align-items: center;
   padding: 3rem 0;
   border-bottom: 2px solid #FFFFFF;
-  background-image: url('/assets/images/background.jpg');
+  background-image: url('../assets/images/background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
